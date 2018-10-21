@@ -1,0 +1,5 @@
+Each dataset contains the selected readings for each gesture.
+
+- The .mat files referred to as "data_matrix_chx" contains the repetiotions of that gesture from the than channels perspective, where each row is single repetition.
+- The .mat files referred to as "chx_features" contain all the features exctracted from each repetion for each gesture.
+- The data divide file contains the same format as decribed above, except the repetions are divided into four segements.
