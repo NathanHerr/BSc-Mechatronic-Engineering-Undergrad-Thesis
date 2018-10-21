@@ -11,3 +11,7 @@ Take note of the following:
 - Sequence Data contains the raw sEMG data taken on day 2. Each reading conatins 5 channels, where each channel contains a random sequence of gestures.
 
 - MATLAB Code conatins all the MATLAB code used throughout the thesis, not all needed, read explanantion in file.
+
+- Data and feature matrices used contains the processed data from the above mentioned raw sEMG data, as well as the features extracted
+
+- Excel conatined the excel spread sheets which conatins useful information on results
